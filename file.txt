@@ -5,3 +5,5 @@ dasd asfsaf
 
 f -fsfsfsf
 f -fsdfsdfs
+
+com f1
