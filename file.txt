@@ -23,8 +23,6 @@ cherry-pic-2
 
 cherry-pic-3
 
-file main
-
 cherry-pick-1
 
 cherry-pick-2
